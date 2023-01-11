@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/demogest/Documents/Project/OS",
+            "binaryPath": "/home/demogest/Documents/Project/OS/1-progress_schedule",
+            "binaryArgs": []
+        }
+    ]
+}
